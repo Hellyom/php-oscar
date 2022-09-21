@@ -1,1 +1,2 @@
-# php-oscar
+#Oscar Chrusciel Brozek
+#oscar.chrusciel@educa.madrid.org
