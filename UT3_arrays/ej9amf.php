@@ -2,6 +2,7 @@
 <HEAD><TITLE> EJ9AMF </TITLE><style>table, td{border: 1px solid; text-align: center;}</style></HEAD>
 <BODY>
 <?php
+    //EJERCICIO SIN ACABAR | EJERCICIO SIN ACABAR | EJERCICIO SIN ACABAR | EJERCICIO SIN ACABAR | EJERCICIO SIN ACABAR | EJERCICIO SIN ACABAR
 $m1 = createMatrix(2,2,5);
 matrixTable($m1);
 $m2 = createMatrix(2,2,5);
