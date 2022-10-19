@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style> 
+  input{
+    width: 60%;
+  }
+  input
+  </style>
+  <title>Document</title>
+</head>
+<body>
+  <div id="wrapper">
+    <div id="datainput">
+      <form method="post" action="datos.php" style="display: flex; justify-content: center; flex-direction: column; width: 50%;">
+        <h2>Datos Alumnos</h2><br>
+        Nombre : <input type="text"  name="nombre">
+        Apellido 1:<input type="text"  name="apellido">
+        Apellido 2:<input type="text"  name="apellido2">
+        Email :<input type="text"  name="email"> *Obligatorio <br>
+        Sexo :<label>Mujer</label><input type="radio" name="sexo" value="mujer">
+        <label>Hombre</label><input type="radio" name="sexo" value="hombre"><br>
+        <button type="submit">Enviar</button>
+        <button type="button">Borrar</button>
+      </form>
+    </div>
+    <div id="dataoutput"></div>
+  </div>
+</body>
+</html>
