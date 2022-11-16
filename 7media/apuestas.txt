@@ -1,0 +1,5 @@
+name,points,prize
+Jugador1,25.5,
+Jugador2,10,
+Jugador3,12.5,
+Jugador4,17,
